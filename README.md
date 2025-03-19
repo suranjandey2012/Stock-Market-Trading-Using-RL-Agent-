@@ -11,14 +11,6 @@ This project implements a Reinforcement Learning (RL) agent for stock market tra
 - **Backtesting**: Trained on 21 years of historical monthly data and tested on a 3-year period.
 - **Visualization**: Comprehensive performance visualizations of rewards, returns, and investment weights.
 
-## Project Structure
-```
-📁 Stock_Market_Trading_Using_RL_Agent
-├── data
-│   └── Main_Dataset.csv
-├── stock_market_rl_agent.py
-├── README.md
-└── requirements.txt
 ```
 
 ## Requirements
@@ -35,19 +27,6 @@ numpy
 matplotlib
 PyPortfolioOpt
 ```
-
-## How to Run
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/Stock_Market_Trading_Using_RL_Agent.git
-    cd Stock_Market_Trading_Using_RL_Agent
-    ```
-2. Install the dependencies using the `requirements.txt` file.
-3. Place your dataset (`Main_Dataset.csv`) inside the `data` folder.
-4. Run the code:
-    ```bash
-    python stock_market_rl_agent.py
-    ```
 
 ## Project Workflow
 1. **Data Preprocessing**: Extracts 12-month rolling data for each year.
