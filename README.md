@@ -69,13 +69,7 @@ PyPortfolioOpt
 - Cumulative Return Over Time
 - Investment Weights by Sector
 
-## Acknowledgments
-- PyPortfolioOpt for portfolio optimization.
-- Matplotlib and NumPy for data visualization and analysis.
+![image](https://github.com/user-attachments/assets/f18af6c0-3134-4683-92a3-ff880f2b47cb)
+![image](https://github.com/user-attachments/assets/61ca7042-8c2d-4042-a31d-acbde16e4eae)
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions or suggestions, feel free to reach out via GitHub or email at your-email@example.com.
 
